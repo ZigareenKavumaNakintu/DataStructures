@@ -1,0 +1,2 @@
+namne= zigareen
+age -90
